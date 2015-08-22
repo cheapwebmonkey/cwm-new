@@ -1,0 +1,25 @@
+{
+  "name": "cwm-2k16",
+  "version": "1.0.0",
+  "description": "New CWM site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheapwebmonkey/cwm-2k16.git"
+  },
+  "keywords": [
+    "cheapwebmonkey"
+  ],
+  "author": "Margeaux Spring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheapwebmonkey/cwm-2k16/issues"
+  },
+  "homepage": "https://github.com/cheapwebmonkey/cwm-2k16#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
